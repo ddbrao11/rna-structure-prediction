@@ -4,3 +4,10 @@ RNA structure prediction remains a major challenge in computational biology,
 with implications for drug discovery and biological engineering.
 This repository explores transformer-based approaches for learning
 sequence-to-structure representations using publicly available benchmark datasets.
+
+## Research Questions
+
+- Can transformer architectures capture long-range dependencies required
+  for structural prediction?
+- How does sequence-only modeling compare to structure-aware approaches?
+
