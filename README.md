@@ -11,3 +11,8 @@ sequence-to-structure representations using publicly available benchmark dataset
   for structural prediction?
 - How does sequence-only modeling compare to structure-aware approaches?
 
+## Methodology Overview
+RNA Sequence → Tokenizer → Transformer Encoder → Regression Head → 3D Coordinates
+
+
+
