@@ -33,6 +33,10 @@ though geometric constraints remain challenging.
 - Graph neural networks for structural modeling
 - Multi-task learning approaches
 
+## Research Notes
+
+This repository represents ongoing independent research exploration.
+
 
 
 
