@@ -1,6 +1,6 @@
-### research question
-
-### approach
-
-### limitations.
-
+Research Motivation (expanded)
+Research Questions (expanded)
+Methodology description
+Experimental Design
+Limitations (detailed)
+Future Research Directions
