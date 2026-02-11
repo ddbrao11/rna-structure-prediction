@@ -17,10 +17,14 @@ RNA Sequence → Tokenizer → Transformer Encoder → Regression Head → 3D Co
 ## Experimental Design
 
 Dataset: Public benchmark dataset.
-
 Baseline: simple regression models.
-
 Evaluation: structural similarity metrics.
+
+## Observations
+
+Early experiments suggest the model captures long-range relationships,
+though geometric constraints remain challenging.
+
 
 
 
