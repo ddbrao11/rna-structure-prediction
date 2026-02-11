@@ -14,5 +14,12 @@ sequence-to-structure representations using publicly available benchmark dataset
 ## Methodology Overview
 RNA Sequence → Tokenizer → Transformer Encoder → Regression Head → 3D Coordinates
 
+## Experimental Design
+
+Dataset: Public benchmark dataset.
+Baseline: simple regression models.
+Evaluation: structural similarity metrics.
+
+
 
 
