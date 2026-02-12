@@ -61,37 +61,30 @@ The objective is to understand architectural trade-offs and identify promising r
 RNA Sequence Dataset
 
         ↓
-
 Data Preparation
 (Tokenization, Cleaning, Feature Encoding)
 
-        ↓
-        
+        ↓        
 Baseline Model
 (Simple ML / Reference Model)
 
-        ↓
-        
+        ↓        
 Transformer-Based Model
 (Self-attention for long-range dependencies)
 
-        ↓
-        
+        ↓        
 Training Process
 (Loss optimization + validation)
 
-        ↓
-        
+        ↓        
 Prediction Output
 (Structural coordinates / folding representation)
 
-        ↓
-        
+        ↓        
 Evaluation
 (Structural similarity metrics + qualitative analysis)
 
-        ↓
-        
+        ↓        
 Analysis & Research Insights
 (Strengths, limitations, future improvements)
 
