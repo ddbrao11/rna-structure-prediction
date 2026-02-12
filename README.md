@@ -36,6 +36,7 @@ Baseline: simple regression models.
 
 Evaluation: structural similarity metrics.
 
+```
 +-------------------------+
 | RNA Sequence Dataset    |
 +-----------+-------------+
@@ -71,6 +72,7 @@ Evaluation: structural similarity metrics.
 +-------------------------+
 | Evaluation & Analysis   |
 +-------------------------+
+```
 
 
 ## Observations
