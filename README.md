@@ -36,6 +36,43 @@ Baseline: simple regression models.
 
 Evaluation: structural similarity metrics.
 
++-------------------------+
+| RNA Sequence Dataset    |
++-----------+-------------+
+            |
+            v
++-------------------------+
+| Data Preparation        |
+| Tokenization & Encoding |
++-----------+-------------+
+            |
+            v
++-------------------------+
+| Baseline Model          |
++-----------+-------------+
+            |
+            v
++-------------------------+
+| Transformer Model       |
+| (Self-Attention)        |
++-----------+-------------+
+            |
+            v
++-------------------------+
+| Training & Validation   |
++-----------+-------------+
+            |
+            v
++-------------------------+
+| Structural Prediction   |
++-----------+-------------+
+            |
+            v
++-------------------------+
+| Evaluation & Analysis   |
++-------------------------+
+
+
 ## Observations
 
 Early experiments suggest the model captures long-range relationships,
