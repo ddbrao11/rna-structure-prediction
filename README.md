@@ -1,6 +1,8 @@
 ## Research Notes
 
 This repository represents ongoing independent research exploration.
+Detailed methodology: [docs/methodology.md](docs/methodology.md)
+
 
 ## Research Motivation
 
@@ -30,11 +32,9 @@ RNA Sequence → Tokenizer → Transformer Encoder → Regression Head → 3D Co
 
 ## Experimental Design
 
-Dataset: Public benchmark dataset.
-
-Baseline: simple regression models.
-
-Evaluation: structural similarity metrics.
+- Dataset: public benchmark RNA folding dataset
+- Baselines: lightweight regressors / simple neural baseline
+- Evaluation: structural similarity metrics + error analysis
 
 ### Experimental Workflow (Conceptual Overview)
 ```
@@ -87,7 +87,8 @@ though geometric constraints remain challenging.
 - Graph neural networks for structural modeling
 - Multi-task learning approaches
 
-
+## Reproducibility
+- Python: 3.x
 
 
 
